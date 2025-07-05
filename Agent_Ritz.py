@@ -1,5 +1,5 @@
 from huggingface_hub import login
-login ()   # Past my_agent token at hugging face
+login ()   # Paste my_agent token at hugging face
 
 from smolagents import CodeAgent, DuckDuckGoSearchTool, InferenceClientModel
 from langchain_community.document_loaders import TextLoader
