@@ -21,5 +21,5 @@ agent = CodeAgent(
 )
 
 # Run the agent
-response = agent.run("Imagine you are Ai researcher and explain your views on hinduism")
+response = agent.run("Imagine you are Ai researcher and explain alignment problem with all mathematical details")
 print(response)
